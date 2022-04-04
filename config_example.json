@@ -1,0 +1,10 @@
+{
+    "share_point": 
+        {
+            "user": "EMAIL",
+            "password": "PASSWORD",
+            "url": "URL",
+            "site": "SITE",
+            "doc_library": "Documents/" 
+        }
+}
